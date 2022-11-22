@@ -1,5 +1,5 @@
 PKG_NAME := pypi-jedi
-URL = https://files.pythonhosted.org/packages/c2/25/273288df952e07e3190446efbbb30b0e4871a0d63b4246475f3019d4f55e/jedi-0.18.1.tar.gz
+URL = https://files.pythonhosted.org/packages/15/02/afd43c5066de05f6b3188f3aa74136a3289e6c30e7a45f351546cab0928c/jedi-0.18.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
