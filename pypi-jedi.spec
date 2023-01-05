@@ -4,7 +4,7 @@
 #
 Name     : pypi-jedi
 Version  : 0.18.2
-Release  : 37
+Release  : 38
 URL      : https://files.pythonhosted.org/packages/15/02/afd43c5066de05f6b3188f3aa74136a3289e6c30e7a45f351546cab0928c/jedi-0.18.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/15/02/afd43c5066de05f6b3188f3aa74136a3289e6c30e7a45f351546cab0928c/jedi-0.18.2.tar.gz
 Summary  : An autocompletion tool for Python that can be used for text editors.
